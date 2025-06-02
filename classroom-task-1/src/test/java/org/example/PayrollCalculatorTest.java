@@ -1,6 +1,6 @@
 package org.example;
 /*
-    José Taveras
+    José Taveras - 10147015
     Vladimir Curiel - 10141415
 
     Cobertura mínima de pruebas:
